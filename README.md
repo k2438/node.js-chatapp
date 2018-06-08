@@ -1,3 +1,3 @@
 # Demo
 
-https://kentowatanabe.herokuapp.com/
+https://chat-nodeapp.herokuapp.com/
